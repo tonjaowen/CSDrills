@@ -1,0 +1,2 @@
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\6.ChallengeEpicSpiesPerformanceTracker\6.ChallengeEpicSpiesPerformanceTracker\obj\Debug\6.ChallengeEpicSpiesPerformanceTracker.csprojResolveAssemblyReference.cache
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\6.ChallengeEpicSpiesPerformanceTracker\6.ChallengeEpicSpiesPerformanceTracker\obj\Debug\6.ChallengeEpicSpiesPerformanceTracker.csproj.CoreCompileInputs.cache
