@@ -1,0 +1,12 @@
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\TicketChallenge\TicketChallenge\bin\Debug\netcoreapp1.1\TicketChallenge.deps.json
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\TicketChallenge\TicketChallenge\bin\Debug\netcoreapp1.1\TicketChallenge.runtimeconfig.json
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\TicketChallenge\TicketChallenge\bin\Debug\netcoreapp1.1\TicketChallenge.runtimeconfig.dev.json
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\TicketChallenge\TicketChallenge\bin\Debug\netcoreapp1.1\TicketChallenge.dll
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\TicketChallenge\TicketChallenge\bin\Debug\netcoreapp1.1\TicketChallenge.pdb
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\TicketChallenge\TicketChallenge\obj\Debug\netcoreapp1.1\TicketChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\TicketChallenge\TicketChallenge\obj\Debug\netcoreapp1.1\TicketChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\TicketChallenge\TicketChallenge\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\TicketChallenge\TicketChallenge\obj\Debug\netcoreapp1.1\TicketChallenge.AssemblyInfoInputs.cache
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\TicketChallenge\TicketChallenge\obj\Debug\netcoreapp1.1\TicketChallenge.AssemblyInfo.cs
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\TicketChallenge\TicketChallenge\obj\Debug\netcoreapp1.1\TicketChallenge.dll
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\TicketChallenge\TicketChallenge\obj\Debug\netcoreapp1.1\TicketChallenge.pdb
