@@ -1,0 +1,12 @@
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\SecondProject\SecondProject\bin\Debug\netcoreapp1.1\SecondProject.deps.json
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\SecondProject\SecondProject\bin\Debug\netcoreapp1.1\SecondProject.runtimeconfig.json
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\SecondProject\SecondProject\bin\Debug\netcoreapp1.1\SecondProject.runtimeconfig.dev.json
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\SecondProject\SecondProject\bin\Debug\netcoreapp1.1\SecondProject.dll
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\SecondProject\SecondProject\bin\Debug\netcoreapp1.1\SecondProject.pdb
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\SecondProject\SecondProject\obj\Debug\netcoreapp1.1\SecondProject.csprojResolveAssemblyReference.cache
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\SecondProject\SecondProject\obj\Debug\netcoreapp1.1\SecondProject.csproj.CoreCompileInputs.cache
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\SecondProject\SecondProject\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\SecondProject\SecondProject\obj\Debug\netcoreapp1.1\SecondProject.AssemblyInfoInputs.cache
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\SecondProject\SecondProject\obj\Debug\netcoreapp1.1\SecondProject.AssemblyInfo.cs
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\SecondProject\SecondProject\obj\Debug\netcoreapp1.1\SecondProject.dll
+C:\Users\Tonja\Documents\Visual Studio 2017\Projects\SecondProject\SecondProject\obj\Debug\netcoreapp1.1\SecondProject.pdb
